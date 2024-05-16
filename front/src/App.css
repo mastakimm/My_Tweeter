@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'ChirpBold';
+    font-weight: 400;
+    src: url('./assets/fonts/ChirpRegular.ttf');
+}
+
+@font-face {
+    font-family: 'ChirpBold';
+    font-weight: 500;
+    src: url('./assets/fonts/ChirpMedium.ttf');
+}
+
+@font-face {
+    font-family: 'ChirpBold';
+    font-weight: 700;
+    src: url('./assets/fonts/ChirpBold.ttf');
+}
+
+
+* {
+    font-family: ChirpBold;
+}

@@ -1,0 +1,29 @@
+.input-yz {
+  input {
+    vertical-align: bottom;
+
+    &:focus, &:not(.ihastext) {
+      + label {
+        transform-origin: left center;
+        transform: translateY(-20px) translateX(15px);
+        font-size: 10px;
+      }
+    }
+  }
+
+  label {
+    pointer-events: none;
+    transform: translateX(15px);
+  }
+}
+
+.AuthCloseBtn {
+  position: absolute;
+  left: .5vw;
+  top: .5vw;
+  cursor: pointer;
+
+  svg {
+    width: 100%;
+  }
+}

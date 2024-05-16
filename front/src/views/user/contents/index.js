@@ -1,0 +1,6 @@
+export { HomePage } from "./Home/HomePage.jsx"
+export { ExplorePage } from "./Explore/ExplorePage.jsx"
+export { NotificationsPage } from "./Notifications/NotificationsPage.jsx"
+export { MessagesPage } from "./Messages/MessagesPage.jsx"
+export { SignetsPage } from "./Signets/SignetsPage.jsx"
+export { ProfilePage } from "./Profile/ProfilePage.jsx"
