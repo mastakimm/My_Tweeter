@@ -49,4 +49,7 @@ php artisan serve
 cd front
 npm run dev
 
+<br>
+<br>
+<br>
 You're all set!
