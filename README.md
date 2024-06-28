@@ -21,6 +21,12 @@ Receive real-time notifications about interactions, new followers, and trending 
 
 ## Initialize the Project :
 
+### Clone the project:
+
+With HTTPS: git clone 'https://github.com/mastakimm/YZ.git'
+With SSH: git clone 'git@github.com:mastakimm/YZ.git'
+
+
 ### 1. Install PHP Dependencies:
 cd back
 composer install
